@@ -1,5 +1,4 @@
-# Relogio
-Relógio Javascript
+# Relógio Javascript
 
 ##
 Projeto feito com Javascript com o objetivo de se criar um <b>Relógio Analógico</b>
