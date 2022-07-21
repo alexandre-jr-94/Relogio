@@ -14,6 +14,12 @@ https://relogio-js-acaj.netlify.app/
 
 ##
 
+O projeto busca criar um relógio analógico. </br>
+Criado com Javascript.
+
+##
+
+
 Projeto criado em 07/2022
 
 ##
